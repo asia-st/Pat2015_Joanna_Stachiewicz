@@ -1,0 +1,6 @@
+/home/asia/AndroidStudioProjects/Joanna.Stachiewicz/app/build/intermediates/classes/debug
+/home/asia/AndroidStudioProjects/Joanna.Stachiewicz/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-20db306a148bd7c1d60067ea0de1c1528873552c.jar
+/home/asia/AndroidStudioProjects/Joanna.Stachiewicz/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-167b1ac0a1e17b78fc11e1d30a7042770222a554.jar
+/home/asia/AndroidStudioProjects/Joanna.Stachiewicz/app/build/intermediates/pre-dexed/debug/classes-89cf3d9f980ae39385ce85b95857f656c23d8863.jar
+/home/asia/AndroidStudioProjects/Joanna.Stachiewicz/app/build/intermediates/pre-dexed/debug/classes-0dee559c662a84d5e441fdaa17b84785b801899f.jar
+/home/asia/AndroidStudioProjects/Joanna.Stachiewicz/app/build/intermediates/pre-dexed/debug/classes-5497ebdba6c8211d32a7861124162ad6a9624819.jar

@@ -5,8 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
-    <string name="zabytek1">Wały Chrobrego</string>
-    <string name="zabytek2">Trzy Orły</string>
-    <string name="zabytek3">Katedra</string>
+    <string name="wyloguj">Wyloguj</string>
+    <string name="zalogowany">Zalogowałeś/aś się: </string>
 
 </resources>
